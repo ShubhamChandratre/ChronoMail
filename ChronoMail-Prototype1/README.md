@@ -1,7 +1,7 @@
 # 📧 Email Scheduler App - First Prototype
 
 ## 🔹 Overview
-The **Email Scheduler App** allows users to send emails to multiple recipients with a configurable delay between each sent email.  
+The **ChronoMail** allows users to send emails to multiple recipients with a configurable delay between each sent email.  
 This project was built using **React.js** for the frontend and **Node.js with Express.js** for the backend, with **Brevo SMTP (Sendinblue)** for email delivery.
 
 ---
@@ -10,7 +10,7 @@ This project was built using **React.js** for the frontend and **Node.js with Ex
 - ✅ Send emails to multiple recipients  
 - ✅ Configure a delay between each email  
 - ✅ Uses **Brevo SMTP** for secure email delivery  
-- ✅ Simple and easy-to-use interface  
+- ✅ Simple, easy-to-use and responsive interface  
 
 ---
 
@@ -18,8 +18,8 @@ This project was built using **React.js** for the frontend and **Node.js with Ex
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/email-scheduler.git
-cd email-scheduler
+git clone https://github.com/ShubhamChandratre/ChronoMail.git
+cd ChronoMail-Prototype1
 ```
 
 ### **2️⃣ Setup the Backend (`email-server`)**
