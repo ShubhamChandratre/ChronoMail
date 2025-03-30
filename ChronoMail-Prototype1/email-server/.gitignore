@@ -17,7 +17,8 @@
 .env.development.local
 .env.test.local
 .env.production.local
-.env #added later for configuration of private username and password for email server
+.env 
+#added later for configuration of private username and password for email server
 
 npm-debug.log*
 yarn-debug.log*
