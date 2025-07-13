@@ -19,7 +19,7 @@ This project was built using **React.js** for the frontend and **Node.js with Ex
 ### **1️⃣ Clone the Repository**
 ```sh
 git clone https://github.com/ShubhamChandratre/ChronoMail.git
-cd ChronoMail-Prototype1
+cd Prototype2
 ```
 
 ### **2️⃣ Setup the Backend (`email-server`)**
