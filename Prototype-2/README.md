@@ -1,4 +1,4 @@
-# 📧 Email Scheduler App - First Prototype
+# 📧 Email Scheduler App - Second Prototype
 
 ## 🔹 Overview
 The **ChronoMail** allows users to send emails to multiple recipients with a configurable delay between each sent email.  
